@@ -1,4 +1,4 @@
-#MartinTarantoviez
+# MartinTarantoviez
 Martin Tarantoviez
 Descripcion
 Este programa en Python verifica si una palabra, frase o número es un palíndromo. 
